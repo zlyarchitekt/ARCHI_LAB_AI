@@ -1,9 +1,9 @@
 {
   "tresc": {
-    "wylaczone": true,
+    "wylaczone": false,
     "wersjaMin": "0.0.0",
-    "komunikat": "Test wylacznika 2026-08-13. Jesli to widzisz, mechanizm dziala.",
-    "wystawiono": "2026-08-13T17:49:10Z"
+    "komunikat": "",
+    "wystawiono": "2026-08-13T18:53:58Z"
   },
-  "podpis": "SQ9Yv20POrUEYXE8+4C7WwlQOSH7sT3BnTQTBynSZa/t/JN1j79Xtg9MQ75kI02Gx7FZ7rYH1TwBzrz8ZFlJCA=="
+  "podpis": "1MYmrxPKZuRv6Z6FVEhG/Ifh2ds9MJT0i4ca5oW6+qJgNq99dKpi47PNnwvTTCVG51YEUQ3bbfU209gH48x9AA=="
 }

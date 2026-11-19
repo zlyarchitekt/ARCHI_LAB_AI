@@ -1,9 +1,9 @@
 {
   "tresc": {
     "wylaczone": false,
-    "wersjaMin": "2.0.0",
-    "komunikat": "Wersja testowa się zakończyła. Archinaut 2.0 pobierzesz po założeniu konta na archinaut.pl.",
-    "wystawiono": "2026-10-17T14:51:46Z"
+    "wersjaMin": "2.3.0",
+    "komunikat": "Ta wersja Archinaut nie jest już obsługiwana. Pobierz wersję 2.3.0 ze strony archinaut.pl/konto.html (Pobierz) i zainstaluj ją w miejsce obecnej.",
+    "wystawiono": "2026-11-19T23:32:16Z"
   },
-  "podpis": "afCJo/960z8GjxLNOD8IVH1iYPAV1svd/b3szGM28Q9ENxY3fhw+zcM5med8WiIxI1wLrcZMgSFAsXX+nUhyAQ=="
+  "podpis": "jMIqM15Q8ZJ9BGLvmv1emCWlTL4a8+72FwqcDXSZQeJ6x3AkpX1+Olae1gw87dZ9MmB1TlDXBs+IB/rRykuGAw=="
 }

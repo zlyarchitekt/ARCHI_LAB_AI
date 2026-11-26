@@ -2,8 +2,8 @@
   "tresc": {
     "wylaczone": false,
     "wersjaMin": "2.3.0",
-    "komunikat": "Ta wersja Archinaut nie jest już obsługiwana. Pobierz wersję 2.3.0 ze strony archinaut.pl/konto.html (Pobierz) i zainstaluj ją w miejsce obecnej.",
-    "wystawiono": "2026-11-19T23:32:16Z"
+    "komunikat": "Twoja wersja jest nieaktualna. Pobierz najnowszą wersję z Konta: archinaut.pl/konto.html (Pobierz). Licencja jest aktywna, nie trzeba kupować nowej. Instrukcja: https://archinaut.pl/pomoc/index.html#aktualizacja",
+    "wystawiono": "2026-11-26T21:10:40Z"
   },
-  "podpis": "jMIqM15Q8ZJ9BGLvmv1emCWlTL4a8+72FwqcDXSZQeJ6x3AkpX1+Olae1gw87dZ9MmB1TlDXBs+IB/rRykuGAw=="
+  "podpis": "Oi5AJaKK33lmotX/gT1lM/ig46yuc15tSem42WIcZ8uB4T8L5o7uO+0GLAkIPsGh1dpBlcZWGxLu+gwNxe/SAA=="
 }
